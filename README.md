@@ -42,9 +42,9 @@ mkdir explain
 ### About Data
 - OD data
 
-The OD data used in the paper comes from SoftBank, and we are not allowed to open them to the public. 
+The OD data used in the paper come from SoftBank Group Corporation, and we are not allowed to open them to the public. 
 Currently, we provide a sample file to indicate the format of OD volumes.
-Now we are preparing synthetic data in the same scope using PseudoPFlow data. 
+Now we are preparing synthetic data in the same scope using [**PseudoPFlow**](https://onlinelibrary.wiley.com/doi/pdf/10.1111/mice.13285) data. 
 Once it is finished, we will update them in this repository.
 
 - Region attributes
