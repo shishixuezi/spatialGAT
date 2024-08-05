@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit_learn
+torch==2.4
+torch_geometric==2.5.3
+jismesh
+pyproj
+captum=0.7.0
